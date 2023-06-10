@@ -3,8 +3,8 @@
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 ## How to run
-### Add env. 
-- nom install
+- Add env.
+- npm install
 - npm run dev
 
 ## What's next? How do I make an app with this?
